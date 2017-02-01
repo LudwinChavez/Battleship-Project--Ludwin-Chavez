@@ -6,6 +6,9 @@ from random import randint
 
 board = []
 
+#Additionally, the following part of the program, is where the board size was decided. In this case, the board size is 5x5.
+#Hence, the board size can simply be changed where the numbers are located. 
+
 for x in range(5):
     board.append(["+  "] * 5)
     
