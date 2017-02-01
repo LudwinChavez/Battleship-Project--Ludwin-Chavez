@@ -1,4 +1,6 @@
 # This part of my code import randint, which allows the computer to randimize its ship placement. 
+
+
 #Also, note that python begins counting from zero, so this may affect and may make you re-think your choice, while
 #attempting to sink the ship. 
 
